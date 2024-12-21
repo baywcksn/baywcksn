@@ -1,6 +1,6 @@
 <div align="center">
 <div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
+<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="250">
 </div>
 <p></p>
 <p align="center">
@@ -23,6 +23,9 @@
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
 </div>
+
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{baywcksn}/count.svg"></p> 
 
 ------
 <p align="right" ><a>Credits:[Kingsky1t]</a></p>

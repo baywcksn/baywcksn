@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bayu Wicaksono</h1>
 <h3 align="center">A creative mobile developer crafting engaging user experiences.</h3>
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/bayuw/Pictures/Download/coding.gif">
+<img align="right" alt="Coding" width="400" src="[file:///C:/Users/bayuw/Pictures/Download/coding.gif](https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baywcksn&label=Profile%20views&color=0e75b6&style=flat" alt="baywcksn" /> </p>

@@ -1,6 +1,6 @@
 <div align="center">
 <div id="header">
-<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="250">
+<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="300">
 </div>
 <p></p>
 <p align="center">

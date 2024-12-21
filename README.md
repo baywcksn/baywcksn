@@ -25,4 +25,4 @@
 </div>
 
 ------
-Credits:[Kingsky1t]
+<p align="right" ><a>Credits:[Kingsky1t]</a></p>

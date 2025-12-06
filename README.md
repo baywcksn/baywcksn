@@ -16,7 +16,38 @@
 <p>⚡ Fun fact <strong>I enjoy playing games and discovering new things.</strong></p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+
+<!-- Python -->
+<img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<!-- SQL -->
+<img width="45" height="45" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+
+<!-- Pandas -->
+<img width="45" height="45" alt="pandas" src="https://github.com/user-attachments/assets/36517404-be65-412b-a8f9-f9d29c1fceba" />
+
+<!-- NumPy -->
+<img width="45" height="45" alt="numpy-logo-png_seeklogo-398690" src="https://github.com/user-attachments/assets/109592d3-f07e-49df-be4c-8eaa81093288" />
+
+<!-- Excel -->
+<img width="45" height="45" alt="Microsoft_Excel_2013-2019_logo svg" src="https://github.com/user-attachments/assets/4c25fde3-ca57-41ad-a56b-580dd1deab21" />
+
+<!-- Google Looker Studio -->
+<img width="45" height="45" alt="looker-studio-logo-png_seeklogo-617989" src="https://github.com/user-attachments/assets/965fc614-8f33-4f12-900b-4299fdb8e178" />
+
+<!-- Git -->
+<img width="45" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+
+<!-- Power BI -->
+<img width="45" height="45" alt="New_Power_BI_Logo svg" src="https://github.com/user-attachments/assets/65ac902e-631c-4d57-b2e1-ad6ffe442e34" />
+
+<!-- Tableau -->
+<img width="45" height="45" alt="tableau-software-logo-png_seeklogo-386611" src="https://github.com/user-attachments/assets/0d4ea56f-fd20-40d1-a536-f600c7c6d34c" />
+
+</p>
+
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -32,4 +63,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{baywcksn}/count.svg"></p> 
 
 ------
-<p align="right" ><a>Credits:[Kingsky1t]</a></p>
+<p align="right" ><a>by: Kingsky1t</a></p>

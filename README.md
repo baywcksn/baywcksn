@@ -9,10 +9,10 @@
 </p>
 <p></p>
 
-<p>I am currently pursuing a Bachelor's degree in Information Systems. I am passionate about Mobile Development and Data Science, always eager to explore innovative technologies and apply user-centered, data-driven solutions. My motto is to continuously learn, embrace challenges as opportunities, and collaborate with others to create impactful solutions.</p>
+<p>I am currently pursuing a Bachelor's degree in Information Systems. I am passionate about Data Analytics, Data Science, and Machine Learning — always eager to explore innovative technologies and transform data into meaningful insights. I continuously learn, embrace challenges as opportunities, and enjoy collaborating to build impactful, data-driven solutions.</p></p>
 
-<p>🌱 I’m currently <strong>learning Kotlin</strong></p>
-<p>💬 Ask me about <strong>Android</strong></p>
+<p>🌱 I’m currently <strong>learning data analaytics</strong></p>
+<p>💬 Ask me about <strong>Data</strong></p>
 <p>⚡ Fun fact <strong>I enjoy playing games and discovering new things.</strong></p>
 
 <h3 align="center">Languages and Tools:</h3>

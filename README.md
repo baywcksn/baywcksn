@@ -64,6 +64,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=baywcksn&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
 </p>
-
-------
-<p align="right" ><a>by: Kingsky1t</a></p>

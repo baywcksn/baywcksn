@@ -16,45 +16,54 @@
 <p>⚡ Fun fact <strong>I enjoy playing games and discovering new things.</strong></p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
 
-<!-- Python -->
-<img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/></td>
 
-<!-- SQL -->
-<img width="45" height="45" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+<td><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="45"/></td>
 
-<!-- Pandas -->
-<img width="45" height="45" alt="pandas" src="https://github.com/user-attachments/assets/36517404-be65-412b-a8f9-f9d29c1fceba" />
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/></td>
 
-<!-- NumPy -->
-<img width="45" height="45" alt="numpy-logo-png_seeklogo-398690" src="https://github.com/user-attachments/assets/109592d3-f07e-49df-be4c-8eaa81093288" />
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/></td>
 
-<!-- Excel -->
-<img width="45" height="45" alt="Microsoft_Excel_2013-2019_logo svg" src="https://github.com/user-attachments/assets/4c25fde3-ca57-41ad-a56b-580dd1deab21" />
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/></td>
 
-<!-- Google Looker Studio -->
-<img width="45" height="45" alt="looker-studio-logo-png_seeklogo-617989" src="https://github.com/user-attachments/assets/965fc614-8f33-4f12-900b-4299fdb8e178" />
-
-<!-- Git -->
-<img width="45" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-
-<!-- Power BI -->
-<img width="45" height="45" alt="New_Power_BI_Logo svg" src="https://github.com/user-attachments/assets/65ac902e-631c-4d57-b2e1-ad6ffe442e34" />
-
-<!-- Tableau -->
-<img width="45" height="45" alt="tableau-software-logo-png_seeklogo-386611" src="https://github.com/user-attachments/assets/0d4ea56f-fd20-40d1-a536-f600c7c6d34c" />
-
-</p>
-
-
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/></td>
+</tr>
+</table>
 
 <h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://linkedin.com/in/bayuwicaksono14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bayuwicaksono14" height="30" width="40" /></a>
-<a href="https://instagram.com/wicaksono_bay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wicaksono_bay" height="30" width="40" /></a>
-<a href="https://twitter.com/bayuwcksn14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bayuwcksn14" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/babayyy official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="babayyy official" height="30" width="40" /></a>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none;">
+<tr style="border:none;">
+
+<td style="border:none;">
+<a href="https://linkedin.com/in/bayuwicaksono14" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
+</a>
+</td>
+
+<td style="border:none;">
+<a href="https://instagram.com/wicaksono_bay" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
+</a>
+</td>
+
+<td style="border:none;">
+<a href="https://twitter.com/bayuwcksn14" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30"/>
+</a>
+</td>
+
+<td style="border:none;">
+<a href="https://www.youtube.com/c/babayyy%20official" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="30"/>
+</a>
+</td>
+
+</tr>
+</table>
 
 <p><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"></p>
 </div>
